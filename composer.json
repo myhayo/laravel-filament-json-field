@@ -1,5 +1,5 @@
 {
-    "name": "codebar-ag/laravel-filament-json-field",
+    "name": "myhayo/laravel-filament-json-field",
     "description": "A Laravel Filament JSON Field integration with CodeMirror support",
     "keywords": [
         "CodebarAg",
